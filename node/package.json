@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Binoy Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "ip": "^1.0.1",
+    "redis": "^2.2.5"
+  }
+}
